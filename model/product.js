@@ -25,6 +25,7 @@ productRouter.get("/list", (req, res) => {
           "#FF6600",
           "@string('lower', 3, 20)"
         ),
+        img:`https://picsum.photos/512/512`
       },
     ],
   });
